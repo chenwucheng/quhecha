@@ -1,0 +1,354 @@
+.top-img img {
+  width: 100%; }
+
+#toptip {
+  background: #474747;
+  font-size: 16px; }
+  #toptip .toptip {
+    height: 55px;
+    line-height: 55px;
+    color: #999999;
+    font-size: 16px; }
+    #toptip .toptip .tc {
+      display: none; }
+    #toptip .toptip .s1 {
+      margin-left: 0px; }
+    #toptip .toptip .s2 {
+      text-align: center; }
+      #toptip .toptip .s2 .a1 {
+        width: 70px; }
+        #toptip .toptip .s2 .a1:hover {
+          background: #5A5A5A; }
+    #toptip .toptip .s3 {
+      margin-left: 390px; }
+      #toptip .toptip .s3 a {
+        padding-right: 20px; }
+        #toptip .toptip .s3 a:hover {
+          background: #5A5A5A; }
+    #toptip .toptip .s4 {
+      margin-left: 18px; }
+    #toptip .toptip img {
+      width: 32px;
+      margin-left: 18px; }
+    #toptip .toptip span {
+      display: inline-block;
+      color: #999999; }
+      #toptip .toptip span a {
+        display: inline-block;
+        color: #999999;
+        box-sizing: border-box; }
+        #toptip .toptip span a img {
+          width: 24px;
+          margin-right: 18px; }
+
+.toplogo .container {
+  height: 105px;
+  line-height: 105px; }
+  .toplogo .container .i1 {
+    width: 170px;
+    height: 60px; }
+  .toplogo .container .i2 {
+    width: 158px;
+    height: 74px;
+    margin-left: 28px; }
+  .toplogo .container .i3 {
+    width: 550px;
+    height: 48px;
+    margin-left: 320px; }
+  .toplogo .container .i4 {
+    width: 80px;
+    height: 80px;
+    margin-left: 12px; }
+  .toplogo .container .a2 {
+    display: inline-block;
+    margin-top: -30px; }
+    .toplogo .container .a2 .i5 {
+      width: 26px;
+      height: 22px; }
+    .toplogo .container .a2 .s1 {
+      font-size: 16px; }
+  .toplogo .container .d1 {
+    display: inline-block;
+    width: 460px;
+    height: 50px;
+    border: 1px solid #ccc;
+    line-height: 50px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    margin-left: 176px; }
+    .toplogo .container .d1 input {
+      display: inline-block;
+      width: 400px;
+      height: 46px; }
+    .toplogo .container .d1 a {
+      display: inline-block; }
+    .toplogo .container .d1 .a1 {
+      border-left: 1px solid #ccc; }
+    .toplogo .container .d1 .i3 {
+      width: 24px;
+      height: 24px;
+      margin-left: 10px; }
+
+.topnav {
+  box-sizing: border-box;
+  box-sizing: border-box; }
+  .topnav .u1 {
+    height: 45px;
+    background: #474747;
+    box-sizing: border-box; }
+    .topnav .u1:hover .banner_nav {
+      display: block; }
+    .topnav .u1 .l1 {
+      float: left; }
+      .topnav .u1 .l1 .a2 {
+        display: inline-block;
+        padding: 14px 22px;
+        box-sizing: border-box;
+        font-size: 16px;
+        font-weight: 550;
+        color: #ccc; }
+        .topnav .u1 .l1 .a2:hover {
+          background: #5A5A5A; }
+      .topnav .u1 .l1 .a1 {
+        padding: 14px 90px; }
+
+.banner_nav {
+  float: left;
+  height: 460px;
+  width: 250px;
+  position: absolute;
+  top: 296px;
+  left: 50px;
+  background: #377149;
+  font-size: 14px;
+  display: none;
+  box-sizing: border-box; }
+  .banner_nav:hover .nav-list {
+    display: block; }
+  .banner_nav ul li a {
+    display: inline-block;
+    width: 250px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    color: #fff; }
+    .banner_nav ul li a:hover {
+      background: #00BA31; }
+    .banner_nav ul li a img {
+      width: 29px;
+      height: 29px;
+      margin-left: 20px; }
+    .banner_nav ul li a span {
+      margin-left: 10px; }
+      .banner_nav ul li a span:hover {
+        color: #E01706; }
+
+.nav-list {
+  float: left;
+  width: 730px;
+  height: 460px;
+  background: #fff;
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  z-index: 999;
+  font-size: 14px;
+  display: none; }
+  .nav-list img {
+    width: 680px;
+    height: 130px;
+    margin-left: 20px; }
+  .nav-list div:hover {
+    background: #F3F3F3; }
+  .nav-list div a {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px 10px; }
+    .nav-list div a:hover {
+      color: red; }
+    .nav-list div a:nth-child(1) {
+      padding: 20px 30px 30px 30px; }
+    .nav-list div a:nth-child(9) {
+      padding: 20px 30px 30px 30px; }
+    .nav-list div a:nth-child(12) {
+      padding: 20px 30px 30px 30px; }
+    .nav-list div a:nth-child(16) {
+      padding: 20px 30px 30px 30px; }
+    .nav-list div a:nth-child(20) {
+      padding: 20px 30px 30px 30px; }
+
+#main .container {
+  width: 1250px; }
+#main h2 {
+  height: 55px;
+  line-height: 55px;
+  font-size: 12px;
+  color: black; }
+  #main h2 i {
+    display: inline-block;
+    width: 40px;
+    color: white;
+    margin-right: 10px;
+    background: url(../img/icon/h2_bg.png) no-repeat center left; }
+#main table {
+  width: 100%; }
+  #main table tr {
+    height: 84px;
+    border: 1px solid #ccc;
+    text-align: center; }
+    #main table tr:first-child {
+      height: 44px;
+      background: #eee; }
+    #main table tr img {
+      width: 83px;
+      height: 83px;
+      float: left;
+      margin-left: 15px; }
+    #main table tr td:first-child {
+      width: 60px; }
+    #main table tr td:nth-child(2) {
+      width: 596px;
+      padding: 16px 0; }
+      #main table tr td:nth-child(2) a {
+        display: inline-block;
+        width: 589px;
+        height: 83px;
+        color: #333; }
+        #main table tr td:nth-child(2) a b {
+          display: inline-block;
+          width: 300px;
+          text-align: left;
+          margin-left: -30px; }
+        #main table tr td:nth-child(2) a:hover b {
+          color: #dc0f50; }
+        #main table tr td:nth-child(2) a span {
+          display: inline-block;
+          vertical-align: middle;
+          margin-left: 50px;
+          color: #999; }
+    #main table tr td:nth-child(3) {
+      width: 125px;
+      color: black;
+      font-weight: bold; }
+    #main table tr td:nth-child(4) {
+      width: 160px; }
+      #main table tr td:nth-child(4) a {
+        display: inline-block;
+        width: 27px;
+        height: 24px;
+        border: 1px solid #ccc; }
+      #main table tr td:nth-child(4) input {
+        display: inline-block;
+        width: 28px;
+        height: 24px;
+        text-align: center;
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc; }
+      #main table tr td:nth-child(4) span {
+        display: block;
+        padding-top: 5px;
+        font-size: 12px;
+        color: red; }
+    #main table tr td:nth-child(5) {
+      width: 105px;
+      color: #dc0f50;
+      font-weight: bold; }
+    #main table tr td:nth-child(6) {
+      width: 102px; }
+      #main table tr td:nth-child(6) a {
+        color: black; }
+        #main table tr td:nth-child(6) a:hover {
+          color: #dc0f50; }
+#main .all_check {
+  height: 100px;
+  line-height: 100px;
+  padding-left: 10px;
+  color: black; }
+  #main .all_check a {
+    color: black;
+    margin-left: 30px; }
+    #main .all_check a:hover {
+      color: #dc0f50; }
+#main .pay {
+  height: 80px;
+  line-height: 70px;
+  font-size: 18px;
+  color: #999;
+  padding-top: 20px; }
+  #main .pay span:first-child {
+    margin-right: 40px; }
+    #main .pay span:first-child i {
+      color: #dc0f50; }
+  #main .pay span:nth-child(2) i {
+    color: #dc0f50;
+    font-size: 30px;
+    font-weight: bold; }
+  #main .pay a {
+    display: inline-block;
+    vertical-align: top;
+    width: 120px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background: #dc0f50;
+    margin-left: 20px; }
+
+#main table th, #main table td {
+  border: 0 none; }
+
+#link {
+  background: #fff;
+  height: 600px;
+  float: left; }
+  #link .link {
+    width: 1250px;
+    height: 262px;
+    margin-top: 100px; }
+    #link .link span {
+      display: block; }
+    #link .link .l1 {
+      width: 304px;
+      height: 45px;
+      border-right: 1px solid #ccc;
+      box-sizing: border-box;
+      float: left;
+      margin-top: 60px;
+      text-align: center; }
+    #link .link .l2 {
+      width: 195px;
+      height: 152px;
+      text-align: center;
+      margin-top: 40px;
+      float: left; }
+      #link .link .l2 a {
+        display: block;
+        line-height: 34px;
+        font-size: 14px; }
+      #link .link .l2 .s1 {
+        font-size: 18px;
+        color: #000; }
+
+#footer {
+  background: #F4F4F4;
+  float: left;
+  margin-left: 50px; }
+  #footer .footer {
+    height: 225px;
+    font-size: 14px;
+    margin-top: 30px; }
+    #footer .footer span {
+      display: block;
+      width: 800px;
+      margin-left: 20px; }
+    #footer .footer .i1 {
+      width: 207px;
+      height: 24px;
+      margin-left: 500px; }
+    #footer .footer .i2 {
+      width: 360px;
+      height: 60px;
+      margin-left: 50px; }
+
+/*# sourceMappingURL=car.css.map */
